@@ -43,7 +43,6 @@ Pour lancer les tests sur un navigateur spécifique, utilisez l'une des commande
 npm run test:chrome
 npm run test:firefox
 npm run test:safari
-
 ```
 
 # Références
