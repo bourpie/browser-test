@@ -8,7 +8,7 @@ Utiliser Playwright pour tester l'apparence de votre site web sur les principaux
 #### Importer le projet
 
 ```bash
-git clone https://github.com/jeremy-michaud/playwright-tester.git
+git clone https://github.com/bourpie/browser-test.git
 ```
 
 #### Installer les dépendances
