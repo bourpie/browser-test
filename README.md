@@ -21,7 +21,7 @@ npm install
 
 Dans le fichier <code>browser.test.ts</code>, remplacez l'URL par celle du site à tester:
 
-```bash
+```javascript
 import { test } from '@playwright/test'
 
 test('test browser', async ({ page }) => {
